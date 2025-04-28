@@ -4,7 +4,7 @@ export const Kinotio = (props: React.ComponentProps<'svg'>): React.ReactElement 
     fill='none'
     xmlns='http://www.w3.org/2000/svg'
     role='img'
-    aria-label='kinotio.io'
+    aria-label='kinotio'
     {...props}
   >
     <rect width='505' height='525.878' rx='100' fill='#FF6500' />
